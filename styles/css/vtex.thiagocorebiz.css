@@ -19,10 +19,6 @@
   border: transparent;
 }
 
-.infoCardContainer--vintage {
-  background-color: #edcfd1;
-}
-
 .infoCardContainer--metal {
   background-color: #e1e1e1;
 }
@@ -40,4 +36,8 @@
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
   background-color: white;
+}
+
+.infoCardContainer--vintage {
+  background-color: #edcfd1;
 }
